@@ -1,2 +1,2 @@
 # OHHTTPStubsExample
-Example OHHTTPStubs using AFNetworking
+Exemplo utilizando OHHTTPStubs com AFNetworking
